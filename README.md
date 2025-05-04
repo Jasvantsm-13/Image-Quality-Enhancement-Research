@@ -10,11 +10,10 @@ This project predicts the image quality of an input image, enhances it using den
 
 ## Setup Instructions
 
-1. Clone the repository:
-   https://github.com/Jasvantsm-13./image-quality-enhancement.git
-3. Open the file `colab_notebook.ipynb` in Google Colab.
+1. Clone the repository
+2. Open the file `colab_notebook.ipynb` in Google Colab.
 
-4. Upload the following pretrained model files to Google Drive or Colab:
+3. Upload the following pretrained model files to Google Drive or Colab:
 - `HyperIQA-resnet50-koniq10k.pth`
 - `RealESRGAN_x4plus.pth`
 - `dncnn_15.pth`
