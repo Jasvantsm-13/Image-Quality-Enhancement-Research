@@ -17,7 +17,7 @@ This project predicts the image quality of an input image, enhances it using den
 4. Upload the following pretrained model files to Google Drive or Colab:
 - `HyperIQA-resnet50-koniq10k.pth`
 - `RealESRGAN_x4plus.pth`
-- (Optional) `dncnn_15.pth`
+- `dncnn_15.pth`
 
 4. Run all the cells step by step in the notebook.
 
